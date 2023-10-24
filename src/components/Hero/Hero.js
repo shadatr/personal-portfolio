@@ -13,8 +13,8 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
         I am an experienced developer with a strong background in JavaScript,
-        TypeScript, React, CSS, Tailwind CSS, PostgreSQL, Supabase, and Next.js.
-        With 1 year of industry experience, I have developed a comprehensive
+        TypeScript, React.js, Node.js, CSS, Tailwind CSS, PostgreSQL, Supabase, and Next.js
+       , I have developed a comprehensive
         understanding of web development and a proven track record of delivering
         high-quality projects.
       </SectionText>

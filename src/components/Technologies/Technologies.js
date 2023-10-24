@@ -20,7 +20,7 @@ const Technologies = () => (
           <ListTitle>Front-end</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            React.js, Tailwind css
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,19 @@ const Technologies = () => (
           <ListTitle>Back-end</ListTitle>
           <ListParagraph>
             Experience with <br />
-            JavaScript, NextJs and Databases
+            Node.js, TypeScript NextJs, Supabase and Databases
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiReact size="3rem"></DiReact>
+        </picture>
+        <ListContainer>
+          <ListTitle>Version Control</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            Git, managing branches and merging code seamlessly
           </ListParagraph>
         </ListContainer>
       </ListItem>
