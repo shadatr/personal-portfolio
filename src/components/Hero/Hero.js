@@ -14,9 +14,7 @@ const Hero = (props) => (
       <SectionText>
         I am an experienced developer with a strong background in JavaScript,
         TypeScript, React.js, Node.js, CSS, Tailwind CSS, PostgreSQL, Supabase, and Next.js
-       , I have developed a comprehensive
-        understanding of web development and a proven track record of delivering
-        high-quality projects.
+       , skilled in designing and implementing and passion for creating dynamic online experience
       </SectionText>
       <Button onClick={() => (window.location = "https://google.com ")}>
         Learn More
