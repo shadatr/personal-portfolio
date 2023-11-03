@@ -32,7 +32,7 @@ const Technologies = () => (
           <ListTitle>Back-end</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js, TypeScript NextJs, Supabase and Databases
+            Node.js, TypeScript, NextJs, Redux.js, Express.js, Supabase and SQL databases
           </ListParagraph>
         </ListContainer>
       </ListItem>
