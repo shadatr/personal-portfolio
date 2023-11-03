@@ -41,6 +41,7 @@ const Footer = () => {
           <SocialIcons href="https://twitter.com/itsshdab">
             <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
+          
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>

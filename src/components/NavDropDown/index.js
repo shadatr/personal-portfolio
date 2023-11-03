@@ -6,7 +6,7 @@ import { DropDownContainer, DropDownIcon, DropDownItem, DropDownItemDesc, DropDo
 
 const NavDropDown = (props) => (
   <div>
-    NavDropDown
+    
   </div>
 );
 
