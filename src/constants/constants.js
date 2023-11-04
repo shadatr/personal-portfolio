@@ -5,7 +5,7 @@ export const projects = [
       "I created a full-stack web application using React, Redux, Express, and MongoDB as the core technologies. The project includes features such as Google OAuth authentication, email notifications, survey collection, and credit card payment processing. This demonstrates my proficiency in building and deploying web applications, handling user authentication, email communication, and online payments.",
     image: ["/images/emsenderMain.png","/images/emsenderAbout.png","/images/emsenderSurvey.png"],
     tags: [
-      "Javasctipt",
+      "Javascript",
       "Express.js",
       "Reducx",
       "React.js",
